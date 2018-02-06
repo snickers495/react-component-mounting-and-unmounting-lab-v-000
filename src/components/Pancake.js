@@ -12,7 +12,7 @@ class Pancake extends React.Component {
   }
 
   componentDidMount(){
-    
+    this.
   }
 
   // TODO: create a componentDidMount() which will start the interval to count how long the pancake has been cooking
